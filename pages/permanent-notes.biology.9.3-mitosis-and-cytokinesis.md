@@ -1,0 +1,31 @@
+title:: permanent-notes/biology/9.3-mitosis-and-cytokinesis
+
+- ### Before  Chromatin Begin
+	- Chromatin condenses
+	- Chromosome number
+		- Diploid -> 2n
+- Humans have 23 different types of chromosomes
+- 46
+-
+- Only sperm and eggs have one of each type
+-
+- **Hiploid**
+	- 46
+		- 23 -> Paternal
+		- 23 -> maternal
+- ### Cell Division
+	- Steps
+		- Prophase
+		- Metaphase
+		- Anaphase
+		- Telephase
+- **Types of reproduction**
+	- Sexual -> 2 parents
+	- Asexual -> 1 parents
+- ## Reflection
+	- ### Concepts I have learned by the end of the lesson
+		- I learned everything Mitosis and Cytokineses.
+	- ### Concepts I still have questions about
+		- None
+	- ### Concepts I did not understand
+		- None, Mr. Tahseen explained everything clearly!

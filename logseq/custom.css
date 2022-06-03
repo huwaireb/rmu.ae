@@ -1,0 +1,9 @@
+@import url("https://wirtzdan.github.io/logseq-paper-theme/custom.css");
+
+/* You can toggle these variables between "block" (Visible) and "none" (Hidden) to show or hide different elements of the UI */
+:root {
+  --display-recent-pages: block;
+  --display-search-button: block;
+  --display-arrow-navigation: block;
+  --display-help-button: block;
+}

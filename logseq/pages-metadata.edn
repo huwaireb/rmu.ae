@@ -1,0 +1,604 @@
+[{:block/name
+  "../assets/allen_moronuki_haskell_from_first_principles_1646111942375_0.pdf",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "../assets/image_1637691579179_0.png",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "../assets/image_1637808029052_0.png",
+  :block/created-at 1637832755674,
+  :block/updated-at 1637832755674}
+ {:block/name "../assets/image_1637808426970_0.png",
+  :block/created-at 1637832755674,
+  :block/updated-at 1637832755674}
+ {:block/name "../assets/image_1637808483429_0.png",
+  :block/created-at 1637832755673,
+  :block/updated-at 1637832755673}
+ {:block/name "../assets/image_1637808507454_0.png",
+  :block/created-at 1637832755673,
+  :block/updated-at 1637832755673}
+ {:block/name "../assets/image_1637808533223_0.png",
+  :block/created-at 1637832755674,
+  :block/updated-at 1637832755674}
+ {:block/name "../assets/image_1637808544280_0.png",
+  :block/created-at 1637832755674,
+  :block/updated-at 1637832755674}
+ {:block/name "../assets/image_1637808556117_0.png",
+  :block/created-at 1637832755674,
+  :block/updated-at 1637832755674}
+ {:block/name "../assets/image_1637828823488_0.png",
+  :block/created-at 1637832755674,
+  :block/updated-at 1637832755674}
+ {:block/name "../assets/image_1637828999485_0.png",
+  :block/created-at 1637832755674,
+  :block/updated-at 1637832755674}
+ {:block/name
+  "../assets/incompatible_the_gdpr_in_the_age_of_big_data_1638265749732_0.pdf",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "13.1-prokaryotic_regulation",
+  :block/created-at 1654063720075,
+  :block/updated-at 1654063720075}
+ {:block/name "13.2-eukaryotic_regulation",
+  :block/created-at 1654063720252,
+  :block/updated-at 1654063720252}
+ {:block/name "13.3-gene_mutation",
+  :block/created-at 1654063720355,
+  :block/updated-at 1654063720355}
+ {:block/name "15-a",
+  :block/created-at 1654063720490,
+  :block/updated-at 1654063720490}
+ {:block/name "2.1",
+  :block/created-at 1649752268258,
+  :block/updated-at 1652858390948}
+ {:block/name
+  "2.1_conductors-capacitors-dielectrics-electrostatics-with-conductors",
+  :block/created-at 1647615392287,
+  :block/updated-at 1647761843280}
+ {:block/name "2.2",
+  :block/created-at 1649752268574,
+  :block/updated-at 1652858431178}
+ {:block/name "2.2_conductors-capacitors-dielectrics-capacitors",
+  :block/created-at 1649925682380,
+  :block/updated-at 1649925682380}
+ {:block/name "2.3",
+  :block/created-at 1649752268784,
+  :block/updated-at 1652858470370}
+ {:block/name "2.3_conductors-capacitors-dielectrics-dielectrics",
+  :block/created-at 1649925682381,
+  :block/updated-at 1649925682381}
+ {:block/name "3",
+  :block/created-at 1647424529125,
+  :block/updated-at 1647424529125}
+ {:block/name "3.1",
+  :block/created-at 1649752268942,
+  :block/updated-at 1652858513304}
+ {:block/name "3.1_electric-circuits-current-and-resistance",
+  :block/created-at 1649925682380,
+  :block/updated-at 1649925682380}
+ {:block/name "3.2",
+  :block/created-at 1649752269082,
+  :block/updated-at 1652858549983}
+ {:block/name "3.2_electric-circuits-current-resistance-and-power",
+  :block/created-at 1649925682380,
+  :block/updated-at 1649925682380}
+ {:block/name "3.3",
+  :block/created-at 1649752269212,
+  :block/updated-at 1652858600666}
+ {:block/name
+  "3.3_electric-currents-steady-state-directcurrent-circuits-with-batteries-and-resistators-only",
+  :block/created-at 1649925682380,
+  :block/updated-at 1649925682380}
+ {:block/name "3.5_ a summary of curve sketching",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "3/5_ a summary of curve sketching",
+  :block/created-at 1647424529125,
+  :block/updated-at 1647424529125}
+ {:block/name "4.1",
+  :block/created-at 1652344259550,
+  :block/updated-at 1652858582448}
+ {:block/name "4.1_ antiderivatives and indefinite integration",
+  :block/created-at 1647424529128,
+  :block/updated-at 1647424529128}
+ {:block/name "61a38697-21e5-4b16-8e47-4be00deecaa7",
+  :block/created-at 1647424529131,
+  :block/updated-at 1647424529131}
+ {:block/name "7.10_reaction-quotient-and-le-chatelier",
+  :block/created-at 1647424529129,
+  :block/updated-at 1647424529129}
+ {:block/name "7.11_introduction-to-solubility-equilibria",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "7.12_common-ionc-effect",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "7.13_ph-and-solubility",
+  :block/created-at 1647424529124,
+  :block/updated-at 1647424529124}
+ {:block/name "7.14_free-energy-of-dissolution",
+  :block/created-at 1647424529124,
+  :block/updated-at 1647424529124}
+ {:block/name "7.8_representations-of-equilibrium",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "7.9_introduction-to-le-chatelier",
+  :block/created-at 1647424529125,
+  :block/updated-at 1647424529125}
+ {:block/name "8.1_introduction-to-acids-and-bases",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "8.2_ph-and-ph-of-strong-acids-and-bases",
+  :block/created-at 1647424529128,
+  :block/updated-at 1647424529128}
+ {:block/name "8.3_weak-acids-and-base-equilibria",
+  :block/created-at 1647424529129,
+  :block/updated-at 1647424529129}
+ {:block/name "8.4_acis-base-reactions-and-buffers",
+  :block/created-at 1647424529131,
+  :block/updated-at 1654145512680}
+ {:block/name "a",
+  :block/created-at 1637693270257,
+  :block/updated-at 1637693270257}
+ {:block/name "apr 12th, 2022",
+  :block/created-at 1649752267830,
+  :block/updated-at 1649752267830}
+ {:block/name "apr 13th, 2022",
+  :block/created-at 1649832823987,
+  :block/updated-at 1649832823987}
+ {:block/name "apr 14th, 2022",
+  :block/created-at 1649923095226,
+  :block/updated-at 1649923095226}
+ {:block/name "apr 18th, 2022",
+  :block/created-at 1650246809973,
+  :block/updated-at 1650246809973}
+ {:block/name "apr 21st, 2022",
+  :block/created-at 1650510111530,
+  :block/updated-at 1650510111530}
+ {:block/name "b",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "c",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "card",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "contents",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "dec 2nd, 2021",
+  :block/created-at 1638403200000,
+  :block/updated-at 1638403200000}
+ {:block/name "dec 4th, 2021",
+  :block/created-at 1638576000000,
+  :block/updated-at 1638576000000}
+ {:block/name "dec 5th, 2021",
+  :block/created-at 1638662400000,
+  :block/updated-at 1638662400000}
+ {:block/name "dec 7th, 2021",
+  :block/created-at 1638835200000,
+  :block/updated-at 1638835200000}
+ {:block/name "dec 8th, 2021",
+  :block/created-at 1638928252880,
+  :block/updated-at 1638932100144}
+ {:block/name "dec 9th, 2021",
+  :block/created-at 1639017366834,
+  :block/updated-at 1639019220110}
+ {:block/name "doing",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "done",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "draws",
+  :block/created-at 1637693270256,
+  :block/updated-at 1637693270256}
+ {:block/name "draws/2021-11-22-18-00-38.excalidraw",
+  :block/created-at 1652180877549,
+  :block/updated-at 1652180877549}
+ {:block/name "draws/2021-11-22-23-37-38.excalidraw",
+  :block/created-at 1652180877545,
+  :block/updated-at 1652180877546}
+ {:block/name "draws/2021-11-23-00-00-56.excalidraw",
+  :block/created-at 1652180877546,
+  :block/updated-at 1652180877546}
+ {:block/name "draws/2021-11-28-19-07-25.excalidraw",
+  :block/created-at 1647424529128,
+  :block/updated-at 1647424529128}
+ {:block/name "draws/2021-11-28-19-18-03.excalidraw",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "draws/2021-11-29-19-26-36.excalidraw",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "draws/2022-01-14-21-54-42.excalidraw",
+  :block/created-at 1647424529124,
+  :block/updated-at 1647424529124}
+ {:block/name "draws/2022-02-01-13-12-25.excalidraw",
+  :block/created-at 1647424529128,
+  :block/updated-at 1647424529128}
+ {:block/name "draws/2022-02-01-13-19-58.excalidraw",
+  :block/created-at 1647424529128,
+  :block/updated-at 1647424529128}
+ {:block/name "draws/2022-02-25-11-01-16.excalidraw",
+  :block/created-at 1647424529131,
+  :block/updated-at 1647424529131}
+ {:block/name "draws/junction-rule-2022-01-30-0209.excalidraw",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "favorites",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "feb 15th, 2022",
+  :block/created-at 1644883200000,
+  :block/updated-at 1644883200000}
+ {:block/name "feb 1st, 2022",
+  :block/created-at 1643673600000,
+  :block/updated-at 1643673600000}
+ {:block/name "feb 25th, 2022",
+  :block/created-at 1645747200000,
+  :block/updated-at 1645747200000}
+ {:block/name "fleeting-notes/chemistry",
+  :block/created-at 1647424529129,
+  :block/updated-at 1647424529129}
+ {:block/name
+  "hls__allen_moronuki_haskell_from_first_principles_1646111942375_0",
+  :block/created-at 1646150312571,
+  :block/updated-at 1646150312571}
+ {:block/name
+  "hls__incompatible_the_gdpr_in_the_age_of_big_data_1638265749732_0",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "home",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "home/rj",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "home/rj/pictures",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211123_224936.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211123_225444.png",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "home/rj/pictures/calc/screenshot_20211123_230222.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211123_231409.png",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "home/rj/pictures/calc/screenshot_20211123_233308.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211123_233339.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211123_233405.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211124_042357.png",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "home/rj/pictures/calc/screenshot_20211124_043011.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211124_043107.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211124_043216.png",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "home/rj/pictures/calc/screenshot_20211124_053511.png",
+  :block/created-at 1637801395520,
+  :block/updated-at 1637801395520}
+ {:block/name "home/rj/pictures/calc/screenshot_20211124_184510.png",
+  :block/created-at 1637801395519,
+  :block/updated-at 1637801395519}
+ {:block/name "in-progress",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "jan 13th, 2022",
+  :block/created-at 1642032000000,
+  :block/updated-at 1642032000000}
+ {:block/name "jan 27th, 2022",
+  :block/created-at 1643241600000,
+  :block/updated-at 1643241600000}
+ {:block/name "jan 28th, 2022",
+  :block/created-at 1643328000000,
+  :block/updated-at 1643328000000}
+ {:block/name "jan 31st, 2022",
+  :block/created-at 1643587200000,
+  :block/updated-at 1643587200000}
+ {:block/name "jun 1st, 2022",
+  :block/created-at 1654063719751,
+  :block/updated-at 1654157026442}
+ {:block/name "jun 2nd, 2022",
+  :block/created-at 1654143452980,
+  :block/updated-at 1654244786042}
+ {:block/name "jun 3rd, 2022",
+  :block/created-at 1654242201975,
+  :block/updated-at 1654242201975}
+ {:block/name "lab-may-13-2022",
+  :block/created-at 1652858221798,
+  :block/updated-at 1652858221798}
+ {:block/name "later",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "learning",
+  :block/created-at 1647424529125,
+  :block/updated-at 1647424529125}
+ {:block/name "learning/haskell",
+  :block/created-at 1647424529131,
+  :block/updated-at 1647424529131}
+ {:block/name "learning/haskell/books",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "learning/haskell/books/hffp",
+  :block/created-at 1646111942925,
+  :block/updated-at 1646111942925}
+ {:block/name "logseq",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "logseq/custom.css",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "mar 15th, 2022",
+  :block/created-at 1647370621037,
+  :block/updated-at 1647417264169}
+ {:block/name "mar 16th, 2022",
+  :block/created-at 1647388800000,
+  :block/updated-at 1647388800000}
+ {:block/name "mar 18th, 2022",
+  :block/created-at 1647561600000,
+  :block/updated-at 1647561600000}
+ {:block/name "mar 1st, 2022",
+  :block/created-at 1647404717244,
+  :block/updated-at 1647404773024}
+ {:block/name "mar 20th, 2022",
+  :block/created-at 1647756172768,
+  :block/updated-at 1647756172768}
+ {:block/name "mar 2nd, 2022",
+  :block/created-at 1646179200000,
+  :block/updated-at 1646179200000}
+ {:block/name "mar 8th, 2022",
+  :block/created-at 1646697600000,
+  :block/updated-at 1646697600000}
+ {:block/name "may 10th, 2022",
+  :block/created-at 1652173321753,
+  :block/updated-at 1652173321753}
+ {:block/name "may 12th, 2022",
+  :block/created-at 1652344145916,
+  :block/updated-at 1652344145916}
+ {:block/name "may 18th, 2022",
+  :block/created-at 1652858221546,
+  :block/updated-at 1652858221546}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652904001198,
+  :block/updated-at 1652904001198}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1653023709722,
+  :block/updated-at 1653928509923}
+ {:block/name "may 21st, 2022",
+  :block/created-at 1653077578333,
+  :block/updated-at 1653077578333}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653379154079,
+  :block/updated-at 1654148844503}
+ {:block/name "may 25th, 2022",
+  :block/created-at 1653422404821,
+  :block/updated-at 1653422404821}
+ {:block/name "may 27th, 2022",
+  :block/created-at 1653628837566,
+  :block/updated-at 1653628837566}
+ {:block/name "may 29th, 2022",
+  :block/created-at 1653808051180,
+  :block/updated-at 1653928503728}
+ {:block/name "may 30th, 2022",
+  :block/created-at 1653926164082,
+  :block/updated-at 1654148940548}
+ {:block/name "nov 19th, 2021",
+  :block/created-at 1637280000000,
+  :block/updated-at 1637280000000}
+ {:block/name "nov 22nd, 2021",
+  :block/created-at 1637539200000,
+  :block/updated-at 1637539200000}
+ {:block/name "nov 25th, 2021",
+  :block/created-at 1637798400000,
+  :block/updated-at 1638630771406}
+ {:block/name "nov 28th, 2021",
+  :block/created-at 1638057600000,
+  :block/updated-at 1638057600000}
+ {:block/name "nov 29th, 2021",
+  :block/created-at 1638144000000,
+  :block/updated-at 1638144000000}
+ {:block/name "nov 30th, 2021",
+  :block/created-at 1638265611028,
+  :block/updated-at 1638266764957}
+ {:block/name "now",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "oct 6th, 2021",
+  :block/created-at 1633478400000,
+  :block/updated-at 1633478400000}
+ {:block/name "permanent-notes",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "permanent-notes/ap-calc",
+  :block/created-at 1647424529124,
+  :block/updated-at 1647424529124}
+ {:block/name "permanent-notes/arabic",
+  :block/created-at 1638703731758,
+  :block/updated-at 1638704512468}
+ {:block/name "permanent-notes/arabic/3la-gdr-ahl",
+  :block/created-at 1647424529125,
+  :block/updated-at 1647424529125}
+ {:block/name "permanent-notes/arabic/kana-wa",
+  :block/created-at 1647424529128,
+  :block/updated-at 1647424529128}
+ {:block/name "permanent-notes/arabic/maf3ool-mtlag",
+  :block/created-at 1638704644228,
+  :block/updated-at 1638705834212}
+ {:block/name "permanent-notes/biology",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "permanent-notes/biology/10.1-overview-of-meiosis",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "permanent-notes/biology/10.2-genetic-variation",
+  :block/created-at 1647424529127,
+  :block/updated-at 1647424529127}
+ {:block/name "permanent-notes/biology/9.1-cellcycle",
+  :block/created-at 1647424529125,
+  :block/updated-at 1647424529125}
+ {:block/name "permanent-notes/biology/9.2-euk-chromosome",
+  :block/created-at 1647424529124,
+  :block/updated-at 1647424529124}
+ {:block/name "permanent-notes/biology/9.3-mitosis-and-cytokinesis",
+  :block/created-at 1647424529131,
+  :block/updated-at 1647424529131}
+ {:block/name "permanent-notes/calculus",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "permanent-notes/calculus/1.2",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "permanent-notes/calculus/1.3",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "permanent-notes/chemistry",
+  :block/created-at 1638630701673,
+  :block/updated-at 1638674255066}
+ {:block/name "permanent-notes/chemistry/3.12",
+  :block/created-at 1638674265827,
+  :block/updated-at 1638675080016}
+ {:block/name "permanent-notes/chemistry/6.1",
+  :block/created-at 1638468293038,
+  :block/updated-at 1638644902379}
+ {:block/name "permanent-notes/chemistry/6.2-6.3",
+  :block/created-at 1638646334896,
+  :block/updated-at 1638661816796}
+ {:block/name "permanent-notes/chemistry/6.3",
+  :block/created-at 1647424529129,
+  :block/updated-at 1647424529129}
+ {:block/name "permanent-notes/chemistry/6.4",
+  :block/created-at 1638661894643,
+  :block/updated-at 1638663493163}
+ {:block/name "permanent-notes/chemistry/6.5",
+  :block/created-at 1638664783700,
+  :block/updated-at 1638666141384}
+ {:block/name "permanent-notes/chemistry/6.6-6.7-6.8-6.9",
+  :block/created-at 1638666986600,
+  :block/updated-at 1638670118672}
+ {:block/name
+  "permanent-notes/chemistry/introduction-to-thermodynamics",
+  :block/created-at 1647424529131,
+  :block/updated-at 1647424529131}
+ {:block/name "permanent-notes/chemistry/pre-exam-notes",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "permanent-notes/islamic",
+  :block/created-at 1637693270259,
+  :block/updated-at 1650247678045}
+ {:block/name "permanent-notes/islamic/alhaya",
+  :block/created-at 1637711230167,
+  :block/updated-at 1637718944724}
+ {:block/name "permanent-notes/islamic/hadith",
+  :block/created-at 1637715372634,
+  :block/updated-at 1637719021826}
+ {:block/name "permanent-notes/islamic/التطرف",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637719013331}
+ {:block/name "permanent-notes/islamic/الفراق",
+  :block/created-at 1637693270259,
+  :block/updated-at 1643341714971}
+ {:block/name "permanent-notes/physics",
+  :block/created-at 1637589090409,
+  :block/updated-at 1654158534996}
+ {:block/name "permanent-notes/physics/dc-circuits",
+  :block/created-at 1643706699459,
+  :block/updated-at 1644917849711}
+ {:block/name "permanent-notes/physics/electric-field",
+  :block/created-at 1637612202594,
+  :block/updated-at 1638199828636}
+ {:block/name "permanent-notes/physics/electrostatic-force",
+  :block/created-at 1637589154367,
+  :block/updated-at 1637615927157}
+ {:block/name "permanent-notes/physics/gausses-law",
+  :block/created-at 1645771788907,
+  :block/updated-at 1646732481134}
+ {:block/name "permanent-notes/physics/magnetic-fields-and-torque",
+  :block/created-at 1649752306752,
+  :block/updated-at 1649923482706}
+ {:block/name "sep 23rd, 2021",
+  :block/created-at 1632355200000,
+  :block/updated-at 1632355200000}
+ {:block/name "sep 24th, 2021",
+  :block/created-at 1632441600000,
+  :block/updated-at 1632441600000}
+ {:block/name "sep 2nd, 2021",
+  :block/created-at 1630540800000,
+  :block/updated-at 1630540800000}
+ {:block/name "sep 5th, 2021",
+  :block/created-at 1630800000000,
+  :block/updated-at 1630800000000}
+ {:block/name "sep 6th, 2021",
+  :block/created-at 1630886400000,
+  :block/updated-at 1630886400000}
+ {:block/name "tasks-jun-6-2-2022",
+  :block/created-at 1654158534994,
+  :block/updated-at 1654158612583}
+ {:block/name "todo",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "todos",
+  :block/created-at 1647424529124,
+  :block/updated-at 1647424529124}
+ {:block/name "todos/weekly",
+  :block/created-at 1647424529128,
+  :block/updated-at 1647424529128}
+ {:block/name "todos/weekly/term-2",
+  :block/created-at 1647424529126,
+  :block/updated-at 1647424529126}
+ {:block/name "todos/weekly/term-2/1",
+  :block/created-at 1647424529124,
+  :block/updated-at 1647424529125}
+ {:block/name "todos/weekly/term-2/1/jan-31-feb-04",
+  :block/created-at 1643606028334,
+  :block/updated-at 1643606539692}
+ {:block/name "unit 2 applying",
+  :block/created-at 1649752269339,
+  :block/updated-at 1649752269339}
+ {:block/name "unit 3 applying",
+  :block/created-at 1649752269451,
+  :block/updated-at 1649752269451}
+ {:block/name "wait",
+  :block/created-at 1637693270257,
+  :block/updated-at 1637693270257}
+ {:block/name "waiting",
+  :block/created-at 1637693270259,
+  :block/updated-at 1637693270259}
+ {:block/name "البيوع المحرمة",
+  :block/created-at 1650247678044,
+  :block/updated-at 1650256434229}
+ {:block/name "التواصل الاجتماعي",
+  :block/created-at 1650247636459,
+  :block/updated-at 1650251574859}
+ {:block/name "الحديث",
+  :block/created-at 1650510207018,
+  :block/updated-at 1650510701590}
+ {:block/name "المنهج النبوي في الرعاية الصحية",
+  :block/created-at 1650247663297,
+  :block/updated-at 1650251772251}
+ {:block/name "كاد واخواتها",
+  :block/created-at 1650510397603,
+  :block/updated-at 1650510397603}
+ {:block/name "نثر الجو",
+  :block/created-at 1650510228450, 
+  :block/updated-at 1650516177451}]

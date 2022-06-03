@@ -1,0 +1,36 @@
+title:: permanent-notes/physics/magnetic-fields-and-torque
+
+- ### Reminders
+	- (x)  is into the page
+	- (.) is out of the page
+	- RHR
+- ## Objectives
+	- Understanding what is meant by magnetic field force and torque
+- ## Magnets
+	- Have two poles, always
+		- North
+		- South
+	- **Field Lines**
+		- Exit north pole and enter south pole
+	- **Force on a Charge**
+		- In Moving in Electric Field
+			- $$F = qVB\sin{\theta}$$
+				- where b is the magnetic field
+			- The angle is between v and b
+			- Use Right hand Rule find direction
+		- Current carrying conductor (wire)
+			- $$F = ILB \sin{\theta}$$
+			- The angle is between I and B
+			- Use Right hand Rule find direction
+	- **Field**
+		- Of a wire
+			- $$B = \frac{µ \times I}{2\pi r}$$
+				- where  µ is
+					- $$4\pi \times 10^{-7}$$
+- ## Applying
+	- **Question 1**
+		- $$Bnet = B_2 - B_1$$
+		- $$B_{net} = \frac{4\pi \times 10^{-7}(4)}{2 \pi (0.03)} - \frac{4\pi 10^{-7} 6}{2 \pi (0.03)} = \frac{4\pi \times 60^{-7}}{2\pi (0.03)}(4-6)$$
+		- $$= -1.2 \times 10^{-5} T$$
+	-
+- we  find that the f1 3equal f22

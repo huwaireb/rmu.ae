@@ -1,0 +1,37 @@
+title:: permanent-notes/chemistry/6.5
+
+## Heat and Phase Changes
+	- To go from low potential energy to high potential energy
+		- Energy is required
+	- To go from high potential energy to low potential energy
+		- Energy is released
+	- Remain same through phase changes
+		- $$\delta T \text{ and } \delta K$$
+	- ### Phase Change Curve
+		- Cooling = Exothermic, G -> S
+			- Release energy when forming bonds
+			- $$q = -(moles)\delta H_{stage}$$
+		- Heating = Endothermic, S -> G
+			- Requires energy to break bonds
+			- During phase change
+				- $$q = (moles)\delta H_{stage}$$
+		- Temperature change
+			- $$q = (mass)(c_{p \text{ state}})(\delta T)$$
+			- $$q = (moles)(c_{p \text{ state}})(\delta T)$$
+	- ~$$\delta H $$ vaporization $$ >$$ $$\delta H$$ fusion
+		- More energy is required to break attraction from liquid to gas than solid to liquid
+		- More energy is released when forming attractions in transistion from liquid to gas
+		- Because we're not breaking as many attractive forces in solid to liquid as we are from liquid to gas
+		- And atoms must be completely separated requiring far more energy than having to make small separations
+	- ### Forces of Attraction
+		- Formed
+			- Heat is released
+			- During Freezing
+			- During Condensation
+		- Broken
+			- Heat is required
+			- During Meleting
+			- During Vaporization
+	- ### Potential Energy
+		- Gaseous systems high potential energy
+		- Solid systems low potential energy

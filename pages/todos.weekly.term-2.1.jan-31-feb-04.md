@@ -1,0 +1,13 @@
+- ### Monday
+	- DONE  pre-requisite physics
+	- TODO حل المشكلات
+- ### Tuesday
+	- TODO Personal Statement
+- ### Wednesday
+	- TODO Study for AP Skill practice test/ unit 6 Biology
+- ### Thursday
+	- TODO Collegeboard Homework AP Calculas
+	- TODO Start research introduction
+- ### Friday
+	- TODO قراءة قصتين من منصة كم كلمة
+	- TODO Two achieve 3000 articles

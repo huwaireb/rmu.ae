@@ -1,0 +1,3 @@
+title:: logseq/custom.css
+
+-

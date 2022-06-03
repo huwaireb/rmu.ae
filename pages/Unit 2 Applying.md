@@ -1,0 +1,20 @@
+- ## Book
+	- (1) E, if we disconnect a battery from a capacitor then only the capacitance will increase, while only the charge remains the same
+	- (2) C, If negative work is done on a negative charge then $$\delta U  = -W_e$$ resulting in a - - so + as in increases
+	- (3) D, simple application of the U_e formula that is (1/2 C V^2) resulting in $$\frac{1}{2} (6 \times 10^{-6}) \times 9^2$$
+	- (4) E, Uniform electric field so all equal because theyre all on same equipotential
+	- (5) D, It is a conductor so it will quickly move to become equipotential resulting in
+		- $$V_1 = V_2 = \frac{Q}{4\pi \epsilon a} = \frac{Q}{4 \pi \epsilon 4a} $$
+		- $$q_1  = \frac{q_2}{4}$$
+		- q1 + q2 = -Q + -Q = -2Q
+		- $$(\frac{q_2}{4})+ q_2 = -2Q$$
+		- Solve for q2 resulting in (-8/5)Q and solve for Q_1 now that u have q2 resulting in (-2/5)
+	- (6) A, potential decreases because we have capacitor without battery, and stored potential energy will decrease with it
+	- (7) D, C1,2 = 1/c + 1/c = 2/c, C4,5 = 2/C, c3 = C.
+		- Ctot = (2/C) + C + (2/C)
+		- Ctot = 2C
+	- (8)
+		- (a) $$C = \frac{\epsilon (L \times W)}{d}$$
+		- (b)  downwards as its exiting positive to negative
+		- (c) upwards towards opposite charge that is positive
+		- rest cancelled not related to lessons

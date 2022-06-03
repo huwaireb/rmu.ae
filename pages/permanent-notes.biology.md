@@ -1,0 +1,11 @@
+- [[permanent-notes/biology/9.1-cellcycle]]
+- [[permanent-notes/biology/9.2-euk-chromosome]]
+- [[permanent-notes/biology/9.3-mitosis-and-cytokinesis]]
+- [[permanent-notes/biology/10.1-overview-of-meiosis]]
+- [[permanent-notes/biology/10.2-genetic-variation]]
+-
+-
+- [[13.1-prokaryotic_regulation]]
+- [[13.2-eukaryotic_regulation]]
+- [[13.3-gene_mutation]]
+- [[15-a]]

@@ -1,0 +1,23 @@
+title:: permanent-notes/biology/9.2-euk-chromosome
+
+- ### Eukaryotic Chromosomes
+	- Contain a single DNA molecue
+	- DNA is associated with proteins
+- ### Histone
+	- They play a structural role
+	- There are 5 types
+	- Responsible for packing DNA -> Nucleus
+- ### Nuclulosome
+	- It is an area inside the nucleus of a cell that is made up of RNA and proteins and is where ribosomes are made
+- ### Hetero chromatin
+	- It is a highly compact  form of a chromosome
+		- Inactive chromatin
+		- Genes hardly transcribed
+		- Compact chromosomes are more easily moved
+- ## Reflection
+	- ### Concepts I have learned by the end of the lesson
+		- I learned everything Eukaryotic Chromosomes, from its definition to its specification in detail.
+	- ### Concepts I still have questions about
+		- None
+	- ### Concepts I did not understand
+		- None, Mr. Tahseen explained everything clearly!

@@ -1,0 +1,6 @@
+- ## Objectives
+	- Estimating values of magnet force, field, torque
+	- Analyzee factors affecting magnitudes of forcec, field and torque
+- ## Success Criteria
+	- Solve problems of physical situations using mathematical relationships
+-

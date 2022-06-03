@@ -1,0 +1,226 @@
+title:: permanent-notes/islamic/hadith
+
+- **المفرادات**
+	- #card بالافك
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2021-12-03T01:27:01.882Z
+	  card-last-reviewed:: 2021-11-29T01:27:01.882Z
+	  card-last-score:: 5
+	  collapsed:: true
+		- اشد الكذب
+	- #card عصبه
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2021-12-03T01:26:49.212Z
+	  card-last-reviewed:: 2021-11-29T01:26:49.213Z
+	  card-last-score:: 5
+	  collapsed:: true
+		- جماعه
+	- #card كبره
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2021-11-29T20:00:00.000Z
+	  card-last-reviewed:: 2021-11-29T01:33:51.824Z
+	  card-last-score:: 1
+	  collapsed:: true
+		- معظمه
+	- #card لمسكم
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2021-11-29T20:00:00.000Z
+	  card-last-reviewed:: 2021-11-29T01:16:14.634Z
+	  card-last-score:: 1
+	  collapsed:: true
+		- اصابكم
+	- #card افضتم
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2021-12-03T01:33:13.124Z
+	  card-last-reviewed:: 2021-11-29T01:33:13.124Z
+	  card-last-score:: 5
+	  collapsed:: true
+		- تكلمتم بكثره
+	- #card تلقونه
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2021-11-29T20:00:00.000Z
+	  card-last-reviewed:: 2021-11-29T01:20:10.721Z
+	  card-last-score:: 1
+	  collapsed:: true
+		- ياخده بعضكم عن بعض
+	- #card هينا
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2021-11-29T20:00:00.000Z
+	  card-last-reviewed:: 2021-11-29T01:33:45.634Z
+	  card-last-score:: 1
+	  collapsed:: true
+		- يسيرا
+	- #card بهتان
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2021-11-29T20:00:00.000Z
+	  card-last-reviewed:: 2021-11-29T01:17:03.537Z
+	  card-last-score:: 1
+	  collapsed:: true
+		- افتراء
+	- #card تشيغ
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2021-11-29T20:00:00.000Z
+	  card-last-reviewed:: 2021-11-29T01:28:25.852Z
+	  card-last-score:: 1
+	  collapsed:: true
+		- تنتشر
+	- #card الفحشه
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2021-12-03T01:26:53.565Z
+	  card-last-reviewed:: 2021-11-29T01:26:53.566Z
+	  card-last-score:: 5
+		- الزنا
+- #card _كيف كان يعدل الرسول معا زوجاته؟_
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2021-12-03T01:09:02.522Z
+  card-last-reviewed:: 2021-11-29T01:09:02.522Z
+  card-last-score:: 5
+	- كان يجري قرعه بينهن
+- #card _اي غزوة رحلو من دون السيدة عاءشه_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:27:08.451Z
+  card-last-score:: 1
+	- المصظلق
+- #card _لماذا تاخرت السيدة عاءشه_
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2021-12-03T01:33:04.071Z
+  card-last-reviewed:: 2021-11-29T01:33:04.071Z
+  card-last-score:: 5
+	- بسبب انخلاع عقدها
+- #card _من مر على السيده عاءشه؟_
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2021-12-03T01:19:23.090Z
+  card-last-reviewed:: 2021-11-29T01:19:23.091Z
+  card-last-score:: 5
+	- صفو بن معطل السلمي
+- #card _اسباب انتشار الشاءعات سريعا_
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2021-12-03T01:28:38.916Z
+  card-last-reviewed:: 2021-11-29T01:28:38.916Z
+  card-last-score:: 5
+	- توفر وساءل التكنولجيا الحديثه
+	- اوقات الفراغ
+- #card _من نشر الكذب عن السيدة عاءشه_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:30:56.396Z
+  card-last-score:: 1
+	- عبدالله بن سلول ولن يعاقب
+	- حقدا على رسول الله
+- #card _عذاب ابن سلول_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:13:51.910Z
+  card-last-score:: 1
+	- الدرك الاسفل من النار
+- #card _اوجه الخير الذي حملته حادثة الافك_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:13:21.465Z
+  card-last-score:: 1
+	- كشف حيقية بعض المنافقين
+	- شرعت احكام لردع اهل الفسق
+	- الاجر العطيم
+	- الصبر على  البلاء
+- #card _دلالة نزول وحي من السماء_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:26:42.473Z
+  card-last-score:: 1
+	- تكريم الله تعالى لعاءشه رضي لله عنها
+	- ورفع قدرها وشرفها
+	-
+- #card _فواءد احسان الضن_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:26:28.154Z
+  card-last-score:: 1
+	- ازدهار المجتمع
+	- تماسكه
+	- متانة العلاقات
+	- زيادة المحبه بين افراد المجتمع
+- #card _دلالة استخدام لفظه بانفسهم بدلا من لفظه باخوانهم في قوله: (ظن المؤمنون...)_
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2021-12-03T01:17:29.866Z
+  card-last-reviewed:: 2021-11-29T01:17:29.866Z
+  card-last-score:: 5
+	- ان المؤمنين كالجسد الواحد من اساء الظن  باخيه فكانما اساء الظن بنفسه
+- #card _الحد الشرعي لمن اوقع على خصاءين في حديث الافك_
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2021-12-03T01:12:14.025Z
+  card-last-reviewed:: 2021-11-29T01:12:14.025Z
+  card-last-score:: 5
+	- حد 80 جلده ورد شهادة والفسق
+- #card _نتاءج ايقاع العقوبه على مروجي الاشاعات_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:12:55.547Z
+  card-last-score:: 1
+	- حفظ اعراض الناس
+	- قلة الشاءعات
+	- توفير الوقت
+- #card _جعل اللخ الالسن اله تلتفي الكلام اذا تلقونه بالسنتكم مع ان التلقيللكلام يكون بالاذن لا باللسان_
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2021-12-03T01:35:54.726Z
+  card-last-reviewed:: 2021-11-29T01:35:54.727Z
+  card-last-score:: 5
+	- للدلاله على حرصهم على تلقي هذه الاخبار وسرعتهم في نشرها دون التحقق من صحتها
+- #card _فهم وتقولون بافواهكم_
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2021-11-29T20:00:00.000Z
+  card-last-reviewed:: 2021-11-29T01:24:52.702Z
+  card-last-score:: 1
+	- للدلالة على أن هذا القول مجرد ألفاظ تجري على الأفواه لا يوجد دليل على صحتها
+- ![image.png](/home/rj/Pictures/calc/Screenshot_20211124_053511.png)
+-
