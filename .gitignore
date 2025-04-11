@@ -1,0 +1,5 @@
+# Direnv's environment cache directory
+/.direnv/
+
+# Default nix derivation output directory
+result
