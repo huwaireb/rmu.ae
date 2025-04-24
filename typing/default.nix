@@ -6,6 +6,7 @@
         packages = [
           pkgs.typst
           pkgs.tinymist
+          pkgs.typstyle
         ];
       };
     };
