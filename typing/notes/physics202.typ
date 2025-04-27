@@ -15,9 +15,9 @@
 = Electric Forces
 
 == Understanding
-Linear charge density is represented by $lambda = Q/L$ \
-Surface charge density is represented by $sigma = Q/A$ \
-Volume charge density is represented by $rho = Q/r$ \
+Linear charge density is represented by $lambda = Q / L$ \
+Surface charge density is represented by $sigma = Q / A$ \
+Volume charge density is represented by $rho = Q / r$ \
 
 == Application
 
@@ -36,11 +36,10 @@ Volume charge density is represented by $rho = Q/r$ \
       &= 9.26 times 10^(-5) N \
       |F_32| = (8.99 times 10^(9)) frac(|120 times 10^(-9)| |-70 times 10^(-9)|, sqrt((26 / 100)^2 + (35 / 100)^2)^2) \
       &= 3.86 times 10^(-4) N \
-      arrow(F_3) = ( -9.26 times 10^(-5) times 0.35/0.41 - 3.86 times 10^(-4) times 0.35/0.44) arrow(i) \
-      + (9.26 times 10^(-5) times 0.22/0.41 - 3.86 times 10^(-4) times 0.26/0.44) arrow(j) \
+      arrow(F_3) = ( -9.26 times 10^(-5) times 0.35 / 0.41 - 3.86 times 10^(-4) times 0.35 / 0.44) arrow(i) \
+      + (9.26 times 10^(-5) times 0.22 / 0.41 - 3.86 times 10^(-4) times 0.26 / 0.44) arrow(j) \
       &= ( -3.86 times 10^(-4) arrow(i) - 1.78 times 10^(-4) arrow(j) ) N \
-
-      tan^(-1) frac(f_"3y", f_"3x") = 24.76 + 180 deg = 204.8 deg \ 
+      tan^(-1) frac(f_"3y", f_"3x") = 24.76 + 180 deg = 204.8 deg \
     $
 ]
 
@@ -63,23 +62,16 @@ Volume charge density is represented by $rho = Q/r$ \
     $
       phi = integral arrow(E) dot d arrow(A) \
       sum phi_x = 0, sum phi_z = 0 \
-
       arrow(E) = -4y^2 j \
-
       arrow(E_"right") = -4 times 4^2 j \
       &= -64 j \
-
       phi_"right" = integral E dot "dA" cos(theta) \
       &= -64 integral "dA" cos(180deg) = -64 A = -64 (2^2) = -256 frac("Nm^2", C) \
-
       arrow(E_"left") = -4 times 2^2 j \
       &= -16 j \
-
       phi_"left" = 16 times integral "dA" cos(0deg) \
       &= 16 times 2^2 = 64 frac("Nm^2", C) \
-
       phi = 64 - 256 = -192 frac("Nm^2", C) \
-
       q_"enc" = epsilon_0 times phi \
       &= 8.85 times 10^(-12) times -192 = -1.7 times 10^(-9) C
     $
@@ -344,47 +336,45 @@ The value of $epsilon_0$ is $8.85 times 10^(-12)$
 #solution[
   + Find E
     $
-      E = Delta V/d = 8.85/(4.425 times 10^(-2)) \
-      &= 200 V/m 
+      E = Delta V / d = 8.85 / (4.425 times 10^(-2)) \
+      &= 200 V / m
     $
 
   + Find the surface charge density
     $
-      E = sigma/epsilon_0 \
-      sigma = E times epsilon_0  = 200 times 8.85 times 10^(-12) \
-      &= 1.77 times 10^(-9) C/m^2
+      E = sigma / epsilon_0 \
+      sigma = E times epsilon_0 = 200 times 8.85 times 10^(-12) \
+      &= 1.77 times 10^(-9) C / m^2
     $
 
   + Area of each plate
     $
       C = frac(epsilon_0 times A, d) \
       A = frac(C times d, epsilon_0) \
-      &= frac( 2 times 10^(-12) times 4.425 times 10^(-2), 8.85 times 10^(-12)) \
-      &= 0.01 m^2 
+      &= frac(2 times 10^(-12) times 4.425 times 10^(-2), 8.85 times 10^(-12)) \
+      &= 0.01 m^2
     $
 
   + Charge on each plate
     $
       Q = C times Delta V \
-      &= 2 times 10^(-12) times 8.85 = 1.77 times 10^(-11) C 
+      &= 2 times 10^(-12) times 8.85 = 1.77 times 10^(-11) C
     $
 
-  + Part 2: Given strength of air = $3 times 10^6 V/m$. Find the minimum distance (before dielectric constant breakdown)
+  + Part 2: Given strength of air = $3 times 10^6 V / m$. Find the minimum distance (before dielectric constant breakdown)
     $
       E <= 3 times 10^6 \
       Delta V / d <= 3 times 10^6 \
       8.85 / 3 times 10^6 <= d \
-     0.00000295 <= d m
+      0.00000295 <= d m
     $
 
   + if $k = 6$, battery is still connected, find C, Q, and $Delta V$
     $
       C = k times C_0 = 6 times 2 times (10^(-12)) \
-      &= 1.2 times 10^(-11) F  \
-
+      &= 1.2 times 10^(-11) F \
       Q = 10^(-11) times 8.85 = 8.85 times 10^(-11) C \
       &= 1.062 * 10^(-10) C \
-
       V_"before" = V_"after"
     $
 ]
@@ -393,7 +383,7 @@ The value of $epsilon_0$ is $8.85 times 10^(-12)$
 
 == Understanding
 
-$ P = "Energy"/t $
+$ P = "Energy" / t $
 
 == Application
 
@@ -524,8 +514,8 @@ $tau = "RC"$, with the unit seconds.
 There's two variants of finding the charge or voltage or current at a point in time.
 
 E.g for charge,
-$q = q_0(1 - e^(-t/tau))$ is used in charging or growth situation. 
-$q = q_0  e^(-t/tau)$  is used in discharging or decay situations
+$q = q_0(1 - e^(-t / tau))$ is used in charging or growth situation.
+$q = q_0 e^(-t / tau)$ is used in discharging or decay situations
 
 == Application
 
@@ -538,25 +528,18 @@ $q = q_0  e^(-t/tau)$  is used in discharging or decay situations
     $
       sum I_"in" = sum I_"out" \
       I_1 + I_3 = I_2 \
-
-      Delta V = +9 - 1I_1 - 1I_1 - 4I_2 - 6  \
+      Delta V = +9 - 1I_1 - 1I_1 - 4I_2 - 6 \
       &= 3 - 2I_1 - 4I_2 = 0 \
-
       Delta V = +3 - 5I_3 - 4I_2 - 6 \
       &= -5I_3 - 4I_2 - 3 = 0 \
-      
       3 - 4I_2 = 2I_1 \
       1.5 - 2I_2 = I_1 \
-
       -4I_2 - 3 = 5I_3 \
       -0.8 I_2 - 0.6 = I_3 \
-
       -0.8I_2 - 0.6 + 1.5 - 2I_2 = I_2 \
       0.9 - 2.8I_2 = I_2 \
       0.9 = 3.8I_2 \
       I_2 = 0.236 A \
-
-
       I_1 = 1.5 - 2(0.236) = 1.028 A \
       I_3 = -0.8(0.236) - 0.6 = -0.7888 A
     $
@@ -572,39 +555,37 @@ $q = q_0  e^(-t/tau)$  is used in discharging or decay situations
       q_0 = C times delta V = 5 times 10^(-3) times 20 = 0.1 C \
     $
 
-  + Find q at $t = 10 "ms"$ 
+  + Find q at $t = 10 "ms"$
     $
       tau = R times C = 10 times 5 times 10^(-3) \
       &= 0.05 s \
-
-      q = q_0 e^(-t/tau) \
-      &= 0.1 e^(-(10 times 10^(-3))/0.05) \
+      q = q_0 e^(-t / tau) \
+      &= 0.1 e^(-(10 times 10^(-3)) / 0.05) \
       &= 0.032 C \
     $
 
   + Find v at $t = 10 "ms"$
     $
       tau = 0.05 s \
-
-      v_c = epsilon times e^(-t/tau)  \
-      &= 20 times e^(-(10 times 10^(-3)/0.05)) \
-      &= 16.4 V 
+      v_c = epsilon times e^(-t / tau) \
+      &= 20 times e^(-(10 times 10^(-3) / 0.05)) \
+      &= 16.4 V
     $
 
   + If the capacitor was later charged, find q at 10 ms
     $
       tau = 0.05 s \
-      q = q_0 (1 - e^(-t/tau)) \
-      &= 0.1 (1 - e^(-(10 times 10^(-3))/0.05)) \
+      q = q_0 (1 - e^(-t / tau)) \
+      &= 0.1 (1 - e^(-(10 times 10^(-3)) / 0.05)) \
       &= 0.018 C \
     $
 
   + If the capacitor was later charged, Find v at 10 ms
     $
-      tau = 0.05 s \ 
-      v_c = epsilon times (1 - e^(-t/tau))  \
-      &= 20 times (1 - e^(-(10 times 10^(-3)/0.05))) \
-      &= 3.63 V 
+      tau = 0.05 s \
+      v_c = epsilon times (1 - e^(-t / tau)) \
+      &= 20 times (1 - e^(-(10 times 10^(-3) / 0.05))) \
+      &= 3.63 V
     $
 ]
 
@@ -620,8 +601,8 @@ $q = q_0  e^(-t/tau)$  is used in discharging or decay situations
 
   + When $t = tau$ what is the value of the voltage across the capacitor.
     $
-      v_c = epsilon (1 - e^(-t/tau)) \
-      &= 5 (1 - e^(-10/10)) \
+      v_c = epsilon (1 - e^(-t / tau)) \
+      &= 5 (1 - e^(-10 / 10)) \
       &= 3.16 V
     $
 ]
@@ -634,26 +615,24 @@ $q = q_0  e^(-t/tau)$  is used in discharging or decay situations
 #solution[
   + After how many time constants is the charge on the capacitor one fourth of its initial value?
     $
-      Q_0/4 = Q_0 times e^(-t/tau) \
-      1/4 = e^(-t/tau) \
-      ln(1/4) = -t/tau \
-      -t/tau = -1.38  \
-      t/tau = 1.38 
+      Q_0 / 4 = Q_0 times e^(-t / tau) \
+      1 / 4 = e^(-t / tau) \
+      ln(1 / 4) = -t / tau \
+      -t / tau = -1.38 \
+      t / tau = 1.38
     $
   + The energy stored in the capacitor decreases with time as capacitance discharges. After how many
   time constants is the stored energy one fourth its initial value?
-    $
-      U(t) = 1/2 Q(t)^2/C \
-      &= frac(Q_0^2 times e^(-2t/tau), 2C) \
-
-      U(0) = frac(1/2 Q_0^2, C) \
-      U(t) = U_0 times e^(-2t/tau) \
-      U(t)/4 = U_0 times e^(-2t/tau) \
-
-      1/4 = e^(-2t/tau) \
-      -1.38 = -2t/tau \
-      t/tau = 0.69
-    $
+  $
+    U(t) = 1 / 2 Q(t)^2 / C \
+    &= frac(Q_0^2 times e^(-2t / tau), 2C) \
+    U(0) = frac(1 / 2 Q_0^2, C) \
+    U(t) = U_0 times e^(-2t / tau) \
+    U(t) / 4 = U_0 times e^(-2t / tau) \
+    1 / 4 = e^(-2t / tau) \
+    -1.38 = -2t / tau \
+    t / tau = 0.69
+  $
 ]
 
 = Magnetic Fields
@@ -677,7 +656,7 @@ The magnitude of the magnetic force on a charged particle is $F_B = |q| v B sin(
 - Largest when $B$ and $V$ are perpendicular at $theta = 90 deg$
 
 === Magnetic Dipole Moment
-Expressed as, 
+Expressed as,
 $mu = N i A$
 
 === Differences between electric and magnetic field
@@ -714,19 +693,21 @@ In the case
 #solution[
   + Draw the direction of the magnetic force in the figure below.
     Towards center, as its a centriputal force
-  
+
   + Is the charged particle a proton or an electron? Explain
     Electron, this is based on right hand rule. If it were to be a proton the magnetic force would point to the left
     not aliging with it being a centriputal force.
-  
+
   + Find the particle speed.
     $
       arrow(F_B) = q V times arrow(B) \
-      F_B = q V B times sin(90 deg) \    
-      V = frac(F_B, q times B  \
-      &= frac(8 times 10^(-19), 1.6 times 10^(-19) times 2.5 times 10^(-6))) \
+      F_B = q V B times sin(90 deg) \
+      V = frac(
+        F_B, q times B \
+        &= frac(8 times 10^(-19), 1.6 times 10^(-19) times 2.5 times 10^(-6))
+      ) \
     $
-    
+
   + Find the radius of the circle.
     $
       F_B = frac(m v^2, r) \
@@ -737,7 +718,7 @@ In the case
 #exercise[
   A uniform magnetic field of magnitude of $0.150 T$ is
   directed along the $+x$ axis. A positron moving at $5.00 times
-  10^6 m/s$ enters the field along a direction that makes an
+  10^6 m / s$ enters the field along a direction that makes an
   angle of $85 deg$ with the $x$ axis. The motion of the trajectory
   is expected to be a helix.
 ]
@@ -748,12 +729,10 @@ In the case
     $
       F_B = (1.6 times 10^(-19))(5 times 10^6)(0.15) sin(85deg) \
       &= 1.19544 times 10^(-13) N \
-
       v⊥ = 5 times 10^6 sin(85deg) \
       &= 4.981 times 10^6 "m/s" \
-
       r = frac("mv⊥", q B) \
-      &= frac( 9.1 times 10^(-31) times 4.981 times 10^6, 1.6 times 10^(-19) times 0.15) \
+      &= frac(9.1 times 10^(-31) times 4.981 times 10^6, 1.6 times 10^(-19) times 0.15) \
       &= 1.88 times 10^(-4) m
     $
 ]
@@ -764,21 +743,19 @@ In the case
 
 #solution[
   + Find the force on the wire in unit-vector notation.
-   $
-     arrow(F_B) = I arrow(L) times arrow(B) \
-     &= 1.2[(0.5 j) times (6 arrow(i) + 10 arrow(k))] \
-
-     mat(delim: "[", arrow(i), arrow(j), arrow(k); 0, 0.5, 0; 6, 0, 10) \
+    $
+      arrow(F_B) = I arrow(L) times arrow(B) \
+      &= 1.2[(0.5 j) times (6 arrow(i) + 10 arrow(k))] \
+      mat(delim: "[", arrow(i), arrow(j), arrow(k); 0, 0.5, 0; 6, 0, 10) \
       &= mat(delim: "[", 0.5, 0; 0, 10) arrow(i) - mat(delim: "[", 0, 6; 0, 10) arrow(j) + mat(delim: "[", 0, 6; 0.5, 0) arrow(k) \
       &= (5 - 0) arrow(i) - (0 - 0) arrow(j) + (0 - 3) arrow(k) \
-
-     arrow(F_B) = 1.2(5 arrow(i) - 3 arrow(k)) \
-    &= 6 arrow(i) - 3.6 arrow(k)
-   $
+      arrow(F_B) = 1.2(5 arrow(i) - 3 arrow(k)) \
+      &= 6 arrow(i) - 3.6 arrow(k)
+    $
 ]
 
 #exercise[
-  An electric field of $1.5 "kV"/m$ and a perpendicular magnetic field $0.400 T$ act on a moving electron to
+  An electric field of $1.5 "kV" / m$ and a perpendicular magnetic field $0.400 T$ act on a moving electron to
   produce no net force. (Lorentz Force)
 ]
 
@@ -786,18 +763,18 @@ In the case
   + What is the electron speed?
     #note[Given the net forces cancel out, $F_E = F_B$]
     $
-      1.5 times 1000 = 1500 V/m \
+      1.5 times 1000 = 1500 V / m \
       F_E = q E \
       F_B = q V B \
       F_E = F_B \
       q E = q v B \
       E = v B \
-      v = E / B = 1500, 0.400 = 3750 m/s
+      v = E / B = 1500, 0.400 = 3750 m / s
     $
 ]
 
 #exercise[
-  An electron has an initial velocity of $(12.0 arrow(j) + 15 arrow(k)) "km"/s$ and a constant acceleration of $(2 times 10^(12)) arrow(i)$
+  An electron has an initial velocity of $(12.0 arrow(j) + 15 arrow(k)) "km" / s$ and a constant acceleration of $(2 times 10^(12)) arrow(i)$
   in a region in which uniform electric field and magnetic field are present. If $arrow(B) = (400 mu T) arrow(i)$. (Lorentz)
 ]
 
@@ -806,22 +783,18 @@ In the case
     $
       F = q E + q [arrow(v) times arrow(B)] = m arrow(a) \
       arrow(E) = frac(m arrow(a) - q[arrow(v) times arrow(B)], q) \
-
       q = - 1.6 times 10^(-19) C \
       m = 9.11 times 10^(-31) "kg" \
-
       arrow(v) times arrow(B) =
-        mat(delim: "[", arrow(i), arrow(j), arrow(k); 0, 12 times 10^3, 15 times 10^3; 4 times 10^(-6), 0, 0) \
-        = mat(delim: "[", 12 times 10^3, 15 times 10^3; 0, 0) arrow(i) - mat(delim: "[", 0, 15 times 10^3; 4 times 10^(-6), 0) arrow(j) + mat(delim: "[", 0, 12 times 10^3; 4 times 10^(-6), 0) arrow(k) \
-        = (0 - 0) arrow(i) - (0 - 4 times 10^(-6) ) + (0 - 0.048) arrow(k)
-        = 0.06 arrow(j) - 0.048 arrow(k) \
-
+      mat(delim: "[", arrow(i), arrow(j), arrow(k); 0, 12 times 10^3, 15 times 10^3; 4 times 10^(-6), 0, 0) \
+      = mat(delim: "[", 12 times 10^3, 15 times 10^3; 0, 0) arrow(i) - mat(delim: "[", 0, 15 times 10^3; 4 times 10^(-6), 0) arrow(j) + mat(delim: "[", 0, 12 times 10^3; 4 times 10^(-6), 0) arrow(k) \
+      = (0 - 0) arrow(i) - (0 - 4 times 10^(-6) ) + (0 - 0.048) arrow(k)
+      = 0.06 arrow(j) - 0.048 arrow(k) \
       frac(m arrow(a), q) =
-        frac((1.822 times 10^(-18)) arrow(i), -1.6 times 10^(-19)) \
-        = -11.3875 N/C \
-
-     frac(m arrow(a), q) - arrow(v) times arrow(B) =
-        -11.3875 arrow(i) - 0.06 arrow(j) + 0.048 arrow(k) N/C
+      frac((1.822 times 10^(-18)) arrow(i), -1.6 times 10^(-19)) \
+      = -11.3875 N / C \
+      frac(m arrow(a), q) - arrow(v) times arrow(B) =
+      -11.3875 arrow(i) - 0.06 arrow(j) + 0.048 arrow(k) N / C
     $
 ]
 
@@ -835,9 +808,9 @@ In the case
     $
       mu = N times i times A \
       &= (1)(2.6)(pi times 0.15^2) \
-      &= 0.18 A m^2 
+      &= 0.18 A m^2
     $
-    
+
   + What is the magnitude of the torque acting on the loop
     $
       tau = mu B sin(theta) \
@@ -849,7 +822,7 @@ In the case
   Final Exam Problem 1
   $
     q = 1.6 times 10^(-19) C, arrow(v) = (10 arrow(i) + 5 arrow(j) - arrow(k)) "m/s" \
-    arrow(B) = 2 arrow(i) + arrow(j) - arrow(k) T, arrow(E) = 4 arrow(i) - 2 arrow(j) + 3 arrow(k) V/m 
+    arrow(B) = 2 arrow(i) + arrow(j) - arrow(k) T, arrow(E) = 4 arrow(i) - 2 arrow(j) + 3 arrow(k) V / m
   $
 ]
 
@@ -867,20 +840,143 @@ In the case
 
 == Understanding
 
+
 === Biot-Savart
-Math expression that gives B at some point in space in terms of the current that carries the field.
+
+- $arrow("dB")$ is perpendicular, $theta = 90 deg$, to both ds and the unit vector $r$ directed from ds towards P
+- The magnitude of B is inversely propotional to $r^2$, where r is the distance from ds to P
+- The magnitude of dB is propotional to the current and to the magnitued of dsto the length of element ds
+- The magnitude of dB is propotional to $sin(theta)$, where $theta$ is the angle between vectors ds and r.
+
+$
+  d arrow(B) = frac(mu_0, 4pi) frac(I d arrow(s) times arrow(r), r^2)
+$
+
+The constant $mu_0$ is called permeability of free space
+
+Essentially,
+Biot-Savart is an expression that gives B at some point in space in terms of the current that carries the field.
 
 === Ampere Laws
-Line integral of B.ds around any closed path equals $μ_0 I$
+
+The product B.ds can be evaluated for small length
+elements ds on the circular path defined by the compass
+needles for the long straight wire.
+
+Ampere’s law states that the line integral of B.ds around
+any closed path equals $mu_0 I$ where I is the total steady
+current passing through any surface bounded by the
+closed path:
+
+Essentially stating,
+$integral.cont arrow(B) dot d arrow(s)$ around any closed path equals $μ_0 I$
+
+Describing the creation of magnetic fields by all continous current magnetic fields.
 
 == Application
 
 #exercise[
-  
+  Consider a thin-straight wire carrying a constant current I and placed
+  along the x-axis as shown below.
 ]
 
 #solution[
-  
+  + Determine the magnitude and direction of the magnetic field at point P due to this current
+    Out of the page, as the currnt points to the right
+    $
+      B_"wire" = frac(mu_0 I, 2 pi alpha)
+    $
+]
+
+#exercise[
+  The two wires shown in the figure carry currents of 5.00 A in opposite
+  directions and are separated by 10.0 cm.
+
+  Find the direction and magnitude of the net magnetic field
+]
+
+#solution[
+  + At a point midway between the wires
+    $$
+
+  + At point P1 (10.0 cm to the right of the wire on the right)
+    $$
+
+  + At point P2 (20.0 cm to the left of the wire on the left).
+    $$
+]
+
+#exercise[
+  A wire carries a 7.00 A current along the x axis and another wire carries a
+  6.00-A current along the y axis as shown in the figure.
+]
+
+#solution[
+  + What is the magnetic field at point P located at $x = 4.00 m, y = 3.00 m$?
+    $$
+]
+
+#exercise[
+  In the figure below, the current in the long straight wire is I1=5.00A and the
+  wire lies in the plane of the rectangular loop, which carries a current I2 =
+  10.0A. The dimensions are c = 0.100m, a = 0.150m, and l = 0.450m.
+]
+
+#solution[
+  + Find the magnitude and direction of the net force exerted on the loop by the magnetic field created by the wire.
+    $$
+]
+
+#exercise[
+  What current is required in the windings of a long
+  solenoid that has 1000 turns uniformly distributed over a
+  length of 0.400 m to produce at the center of the solenoid
+  a magnetic field of magnitude $1.00 times 10^44 T$?
+]
+
+#solution[
+  + Required current
+    $$
+]
+
+#exercise[
+  Two circular loops are parallel, coaxial, and almost in
+  contact, 0.100 mm apart. Each loop is 10.0 cm in radius.
+  The top loop carries a clockwise current of 140 A. The
+  bottom loop carries a counterclockwise current of 140 A.
+]
+
+#solution[
+  + Calculate the magnetic force exerted by the bottom loop on the top loop.
+    $$
+
+  + The upper loop has a mass of 0.021 kg. Calculate its acceleration, assuming the only forces acting on it are the the force in part a) and the gravitational force.
+    $$
+]
+
+#exercise[
+  A long straight wire of radius R carries a steady current I
+  that is uniformly distributed through the cross section of
+  the wire.
+]
+
+#solution[
+  + Calculate the magnetic field a distance r from the center of the wire in the region $r ≥ R "and" r < R$.
+    $$
+]
+
+#exercise[
+  The magnetic coils of a tokamak fusion reactor are in the shape of a toroid
+  having an inner radius of 0.700 m and an outer radius of 1.30m. The toroid has 900
+  turns of large diameter wire, each of which carries a current of 1.40kA.
+  Find the magnitude of the magnetic field inside the toroid along
+]
+
+#solution[
+  + the inner radius
+    $$
+  + the outer radius
+    $$
 ]
 
 #exercise[
@@ -890,17 +986,13 @@ Line integral of B.ds around any closed path equals $μ_0 I$
 
 #solution[
   + The flat surface S1
+    $$
   + The hemispherical surface S2
+    $$
 ]
 
 
 = Induction and Inductance
-
-== Understanding
-
-=== Faraday's Law of Induction
-
-=== Lenz’s law
 
 == Application
 
@@ -918,7 +1010,7 @@ Line integral of B.ds around any closed path equals $μ_0 I$
       phi = integral arrow(B) times d arrow(A) \
       &= integral B times "dA" cos(30deg) \
       &= 0.5 cos(30deg) times A = 0.5 cos(30deg) times pi r^2 \
-      &= 0.5 cos(30deg) times  0.2^2 pi = 0.05 "Wb"
+      &= 0.5 cos(30deg) times 0.2^2 pi = 0.05 "Wb"
     $
 
   + The magnetic field increases from 0.5 T to 2.5 T in 0.8 seconds. What is the average emf, $epsilon (t)$ induced in the loop.
@@ -928,7 +1020,7 @@ Line integral of B.ds around any closed path equals $μ_0 I$
     ]
     $
       epsilon = - 1 frac(Delta phi, Delta t) \
-      &= -1 frac((2.5 cos(30 deg) times 0.2^2 pi) - (0.05), 0.8)  \
+      &= -1 frac((2.5 cos(30 deg) times 0.2^2 pi) - (0.05), 0.8) \
       &= -0.277 V
     $
 ]
@@ -942,11 +1034,11 @@ Line integral of B.ds around any closed path equals $μ_0 I$
 #solution[
   + If the field changes linearly from $0$ to $0.5 T$ in $0.8 s$, what is the
   magnitude of the induced emf in the coil while the field is changing?
-    $
-      epsilon = -N times A times frac(Delta B, Delta t) \
-      &= 200 times (0.18)^2 times frac(0.5, 0.8) \
-      &= -4.05 V = 4.05 V \
-    $
+  $
+    epsilon = -N times A times frac(Delta B, Delta t) \
+    &= 200 times (0.18)^2 times frac(0.5, 0.8) \
+    &= -4.05 V = 4.05 V \
+  $
 ]
 
 #exercise[
@@ -973,13 +1065,9 @@ Line integral of B.ds around any closed path equals $μ_0 I$
   + What is the average emf induced?
     $
       epsilon_"avg" = N times frac(Delta phi, Delta T) \
-
       phi = integral arrow(B) times d arrow(A) cos(theta) deg \
-
       phi_"initial" = 1.25 (0.05^2 pi) cos(0deg) = 0.0098 "Wb" \
       phi_"final" = 1.25(0.05^2 pi) cos(90deg) = 0 \
-
-      
       epsilon_"avg" = - 200 times frac(-0.0098, 0.015) \
       &= 130.6 V
     $
