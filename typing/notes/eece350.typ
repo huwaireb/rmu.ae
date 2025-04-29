@@ -61,7 +61,7 @@
         }
       }
 
-      return node;  
+      return node;
     }
 
 
@@ -69,7 +69,7 @@
       if (node == nullptr || node->data == val) return node;
 
       if (val < node->data) {
-        return search(node->left, val); 
+        return search(node->left, val);
       } else {
         return search(node->right, val);
       }
@@ -100,7 +100,7 @@
       postOrder(node->left);
       postOrder(node->right);
 
-      std::cout << node->data << " ";      
+      std::cout << node->data << " ";
     }
 
     Node* findMin(Node* node) {
@@ -126,7 +126,7 @@
             delete node;
         }
     }
-    
+
     public:
     BST() : root(nullptr) {}
     ~BST() {
@@ -142,7 +142,7 @@
     }
 
     Node* search(int val) {
-     return search(root, val) 
+     return search(root, val)
     }
 
     void inOrder() { inOrder(root); }
@@ -185,7 +185,7 @@ Queues are restricted versions of arrays and linked lists.
 #solution[
   + What are the values of queueFront and queueRear after adding an element to queue?
     Adding an element retains queueFront as the same value (50), but queueRear will change to the new element.
-  
+
   + What are the values of queueFront and queueRear after removing an element from queue?
     queueFront will become the next value in the queue from the front.
     queueRear will remain same.
@@ -321,7 +321,7 @@ to deal with such conflicts.
 === Load Factor
 Load factor is $lambda = frac(n, m)$, ratio of number of keys (n) to the number of slots in table (m)
 
-In open addressing, a higher load factor (closer to 1) increases collisions, leading to longer probe sequences and degraded performance. Typically,  λ ≤ 0.7  is preferred for efficiency.
+In open addressing, a higher load factor (closer to 1) increases collisions, leading to longer probe sequences and degraded performance. Typically, λ ≤ 0.7 is preferred for efficiency.
 
 In chaining, the load factor represents the average number of keys per slot (average list length). Performance degrades gracefully as λ grows, but very high load factors increase search times due to longer lists.
 
@@ -409,7 +409,7 @@ But, Secondary clustering occurs because all keys hashing to the same index foll
   Suppose that the size of the hash table is 101. Suppose that a certain key with the indices 15, 101, 116,0, and 217 are to be inserteda
   in this order into an initially empty hash table. Use modulo arithmetic to find indices in the hash table if
   linear and quadratic probing is used?
-] 
+]
 
 #solution[
   + Linear Probing
@@ -421,7 +421,7 @@ But, Secondary clustering occurs because all keys hashing to the same index foll
       0 % 101 = 0 = (0 + 1) % 101 = 1 \
       217 % 101 = 15 = (217 + 1) % 101 = 16 = (217 + 2) % 101 = 17 \
     $
-    
+
   + Quadratic Probing
     $
       h(k, i) = (k + i^2) mod "HT"_"Size" \
@@ -434,5 +434,5 @@ But, Secondary clustering occurs because all keys hashing to the same index foll
 ]
 
 #exercise[
-  
+
 ]
